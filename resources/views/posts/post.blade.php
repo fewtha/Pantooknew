@@ -55,7 +55,7 @@
                                             <!-- <a href="{{url('/posts/delete/'.$post->id)}}" class="btn btn-danger float-end">
                                                 ลบโพสต์
                                             </a> -->
-                                           
+                                           <!-- sdafsadfasdfs -->
                                         </div>
                                     </div>
                                     @endforeach
